@@ -1,1 +1,1 @@
-Index.html has some examples of the wireframe components.
+Wireframe Style see https://wordmine.app/ for an example.
